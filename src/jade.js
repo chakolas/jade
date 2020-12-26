@@ -77,7 +77,7 @@ function Footer({Image}) {
 			<Grid>
 				<Card className={classes.card}>
 					<CardActionArea>
-						<CardMedia className={classes.media} image='http://192.168.1.74:8080/Chakolas_Video/BG1080.png' title='Event' />
+						<CardMedia className={classes.media} image='https://chakolas.github.io/images/BG1080.png' title='Event' />
 					</CardActionArea>
 					</Card>
 					</Grid>
