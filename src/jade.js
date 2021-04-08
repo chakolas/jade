@@ -61,7 +61,7 @@ function Media() {
 			<Card className={classes.card}>
 				<CardActionArea>
 					<video autoplay="true" muted="true" width='1080' height='1045' preload='true' loop='true' controls controlsList="nodownload">
-					<source src= 'https://res.cloudinary.com/chakolas/video/upload/v1606558971/Chakolas_1_ictscg.mp4'/>
+					<source src= 'https://res.cloudinary.com/chako/video/upload/v1617868308/Pavilion_luxb1d.mp4'/>
 					</video>
 				</CardActionArea>
 			</Card>
